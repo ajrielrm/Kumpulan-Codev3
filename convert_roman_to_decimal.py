@@ -7,6 +7,7 @@ tallies = {
     'D': 500,
     'M': 1000,
     # specify more numerals if you wish
+    # Codingannya keren bintang 5
 }
 
 def RomanNumeralToDecimal(romanNumeral):
